@@ -1,0 +1,19 @@
+{
+  "name": "curso-api-res-themoviedb",
+  "version": "1.0.0",
+  "description": "curso practico de api res",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j-o-s-e23/curso-api-res-themoviedb.git"
+  },
+  "author": "jose matheus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/j-o-s-e23/curso-api-res-themoviedb/issues"
+  },
+  "homepage": "https://github.com/j-o-s-e23/curso-api-res-themoviedb#readme"
+}
